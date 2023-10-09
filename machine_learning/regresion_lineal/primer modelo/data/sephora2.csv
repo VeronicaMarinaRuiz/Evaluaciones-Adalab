@@ -1,0 +1,992 @@
+,brand,category,rating,number_of_reviews,love,price,online_only,exclusive,limited_edition
+0,Acqua Di Parma,Fragrance,4.0,4,3002,66.0,Yes,No,No
+1,Acqua Di Parma,Cologne,4.5,76,2700,66.0,Yes,No,No
+2,Acqua Di Parma,Perfume,4.5,26,2600,180.0,Yes,No,No
+3,Acqua Di Parma,Perfume,4.5,23,2900,120.0,Yes,No,No
+4,Acqua Di Parma,Fragrance,3.5,2,943,72.0,Yes,No,No
+5,Acqua Di Parma,Perfume,4.5,79,2600,180.0,Yes,No,No
+6,Acqua Di Parma,Perfume,4.5,79,5000,210.0,Yes,No,No
+7,Acqua Di Parma,Cologne,5.0,13,719,120.0,Yes,No,No
+8,Acqua Di Parma,Perfume,3.0,5,2100,58.0,Yes,Yes,No
+9,Acqua Di Parma,Perfume,3.5,3,87,120.0,Yes,No,No
+10,Acqua Di Parma,Perfume,4.5,16,1900,120.0,No,No,No
+11,Acqua Di Parma,Perfume,4.5,19,2300,142.0,Yes,No,No
+12,Acqua Di Parma,Perfume,4.5,44,2900,120.0,Yes,No,No
+13,Acqua Di Parma,Perfume,0.0,0,143,275.0,Yes,No,No
+14,Acqua Di Parma,Fragrance,4.0,1,594,80.0,Yes,Yes,Yes
+15,Acqua Di Parma,Perfume,4.5,6,306,120.0,Yes,No,No
+16,Acqua Di Parma,Cologne,4.0,20,584,120.0,Yes,No,No
+17,Acqua Di Parma,Perfume Gift Sets,5.0,1,211,113.0,Yes,No,Yes
+18,Acqua Di Parma,Perfume,5.0,1,250,70.0,Yes,No,No
+19,Acqua Di Parma,Perfume,4.5,5,396,120.0,Yes,No,No
+20,Acqua Di Parma,Perfume,4.5,34,1900,142.0,Yes,No,No
+21,Acqua Di Parma,Cologne,4.0,1,116,245.0,Yes,No,No
+22,Acqua Di Parma,Cologne,0.0,0,259,120.0,Yes,No,No
+23,Acqua Di Parma,Perfume,5.0,2,464,275.0,Yes,No,No
+24,Acqua Di Parma,Perfume Gift Sets,5.0,1,153,200.0,Yes,No,Yes
+25,Acqua Di Parma,Cologne,4.0,5,303,245.0,Yes,No,No
+26,Acqua Di Parma,Cologne,4.0,2,160,245.0,Yes,No,No
+27,Acqua Di Parma,Perfume Gift Sets,0.0,0,204,113.0,Yes,No,Yes
+28,Acqua Di Parma,Perfume Gift Sets,0.0,0,235,200.0,Yes,No,Yes
+29,Acqua Di Parma,Perfume,0.0,0,165,275.0,Yes,No,No
+30,Acqua Di Parma,Perfume,0.0,0,122,275.0,Yes,No,No
+31,AERIN,Perfume,4.0,91,8000,130.0,Yes,No,No
+32,AERIN,Perfume,4.5,77,5600,130.0,Yes,No,No
+33,AERIN,Perfume,5.0,12,1700,235.0,Yes,No,No
+34,AERIN,Perfume,4.5,63,3800,130.0,Yes,No,No
+35,AERIN,Perfume,4.5,39,4400,130.0,Yes,No,No
+36,AERIN,Perfume,5.0,2,697,30.0,Yes,No,No
+37,AERIN,Perfume,3.5,33,1500,130.0,Yes,No,No
+38,AERIN,Perfume,4.5,48,3900,130.0,Yes,No,No
+39,AERIN,Fragrance,4.5,33,4700,30.0,Yes,No,No
+40,AERIN,Perfume,4.0,17,1800,130.0,Yes,No,No
+41,AERIN,Perfume,4.5,52,4700,180.0,Yes,No,No
+42,AERIN,Perfume,4.5,12,1100,130.0,Yes,No,No
+43,AERIN,Perfume,4.5,23,2900,130.0,Yes,No,No
+44,AERIN,Perfume,4.5,9,1400,130.0,Yes,No,No
+45,AERIN,Perfume,4.0,3,1600,175.0,Yes,No,No
+46,AERIN,Perfume,4.0,14,1300,175.0,Yes,No,No
+47,Armani Beauty,Cologne,5.0,691,17200,88.0,No,No,No
+48,Armani Beauty,Perfume Gift Sets,0.0,0,527,88.0,No,Yes,Yes
+49,Armani Beauty,Perfume,4.5,921,30300,78.0,No,No,No
+50,Armani Beauty,Perfume,4.5,365,24400,97.0,No,No,No
+51,Armani Beauty,Cologne,5.0,243,6600,72.0,No,No,No
+52,Armani Beauty,Cologne,4.5,27,3300,77.0,No,No,No
+53,Armani Beauty,Perfume,4.5,1000,10500,97.0,No,No,No
+54,Armani Beauty,Perfume,4.5,608,13600,72.0,No,No,No
+55,Armani Beauty,Cologne,0.0,0,84,138.0,No,No,No
+56,Armani Beauty,Perfume,4.5,46,4700,97.0,No,No,No
+57,Armani Beauty,Cologne,5.0,12,1700,126.0,No,No,No
+58,Armani Beauty,Cologne,4.5,36,1900,100.0,No,No,No
+59,Armani Beauty,Cologne,5.0,26,1800,95.0,No,No,No
+60,Armani Beauty,Perfume Gift Sets,4.0,4,2000,25.0,No,Yes,Yes
+61,Armani Beauty,Perfume,0.0,0,324,126.0,No,No,No
+62,Armani Beauty,Cologne,4.5,330,749,72.0,No,No,No
+63,Armani Beauty,Perfume,4.5,13,1200,58.0,No,No,No
+64,Armani Beauty,Cologne,4.5,357,2000,79.0,No,No,No
+65,Armani Beauty,Perfume,4.5,28,3300,78.0,No,No,No
+66,Armani Beauty,Cologne,4.5,3,234,100.0,No,No,No
+67,Armani Beauty,Cologne,5.0,5,438,95.0,No,No,No
+68,Armani Beauty,Cologne Gift Sets,0.0,0,6,130.0,No,No,Yes
+69,Atelier Cologne,Fragrance,5.0,1,3600,55.0,No,Yes,Yes
+70,Atelier Cologne,Perfume,4.5,384,18100,140.0,No,No,No
+71,Atelier Cologne,Perfume,4.0,502,19200,140.0,No,No,No
+72,Atelier Cologne,Perfume,4.0,418,16900,140.0,No,No,No
+73,Atelier Cologne,Perfume,4.0,100,4300,140.0,No,No,No
+74,Atelier Cologne,Fragrance,5.0,1,880,24.0,No,Yes,No
+75,Atelier Cologne,Perfume,4.0,86,5500,140.0,No,No,No
+76,Atelier Cologne,Perfume,4.5,96,4400,140.0,No,Yes,No
+77,Atelier Cologne,Perfume Gift Sets,0.0,0,206,80.0,Yes,Yes,Yes
+78,Atelier Cologne,Perfume,4.5,6,1300,140.0,No,Yes,No
+79,Atelier Cologne,Perfume Gift Sets,5.0,3,976,135.0,Yes,Yes,Yes
+80,Atelier Cologne,Perfume Gift Sets,4.5,2,758,135.0,Yes,Yes,Yes
+81,Atelier Cologne,Perfume,4.5,40,1300,140.0,No,Yes,No
+82,Atelier Cologne,Perfume Gift Sets,4.5,3,1200,78.0,Yes,No,Yes
+83,Atelier Cologne,Perfume Gift Sets,0.0,0,344,80.0,Yes,Yes,Yes
+84,Atelier Cologne,Perfume Gift Sets,0.0,0,232,80.0,Yes,Yes,Yes
+85,Atelier Cologne,Perfume,4.5,67,2200,140.0,No,No,No
+86,Atelier Cologne,Perfume,4.0,89,2800,140.0,No,Yes,No
+87,Atelier Cologne,Perfume Gift Sets,0.0,0,138,80.0,Yes,Yes,Yes
+88,Atelier Cologne,Perfume,4.5,3,599,140.0,No,No,No
+89,Atelier Cologne,Perfume,4.0,22,1600,140.0,No,No,No
+90,Atelier Cologne,Perfume Gift Sets,0.0,0,25,140.0,Yes,Yes,No
+91,Atelier Cologne,Perfume,4.5,12,1200,140.0,No,No,No
+92,Atelier Cologne,Perfume,4.0,15,1300,275.0,Yes,No,No
+93,Atelier Cologne,Perfume,4.0,69,4900,140.0,No,No,No
+94,Atelier Cologne,Perfume Gift Sets,0.0,0,24,80.0,Yes,Yes,No
+95,Atelier Cologne,Perfume Gift Sets,5.0,1,475,135.0,Yes,Yes,Yes
+96,Atelier Cologne,Perfume,5.0,4,2000,80.0,No,Yes,No
+97,Atelier Cologne,Perfume,4.5,64,3300,140.0,No,No,No
+98,Atelier Cologne,Perfume,5.0,1,748,275.0,Yes,No,No
+99,Atelier Cologne,Perfume,4.5,29,915,275.0,No,No,No
+100,Atelier Cologne,Perfume,4.5,11,922,140.0,No,No,No
+101,Atelier Cologne,Perfume,4.0,7,626,140.0,No,No,No
+102,Atelier Cologne,Perfume,4.0,10,1200,150.0,No,No,No
+103,Atelier Cologne,Perfume,3.5,13,1200,140.0,No,No,No
+104,BALENCIAGA,Perfume,4.5,360,11100,107.0,No,No,No
+105,BALENCIAGA,Perfume,4.5,145,7000,117.0,No,No,No
+106,BERDOUES,Perfume,4.5,29,1900,88.0,No,No,No
+107,BERDOUES,Perfume Gift Sets,4.5,31,1900,22.0,Yes,Yes,No
+108,BERDOUES,Perfume,4.5,30,2700,88.0,No,No,No
+109,BERDOUES,Perfume,4.5,10,486,88.0,Yes,No,No
+110,BERDOUES,Perfume,4.5,22,2600,88.0,No,No,No
+111,BERDOUES,Perfume,3.0,6,689,88.0,No,No,No
+112,BERDOUES,Perfume,4.0,3,875,25.0,Yes,Yes,No
+113,BERDOUES,Perfume,4.5,5,846,88.0,No,No,No
+114,BERDOUES,Perfume,4.5,3,651,88.0,No,No,No
+115,BERDOUES,Perfume,4.0,9,1000,88.0,No,No,No
+116,BERDOUES,Perfume,3.5,5,1100,88.0,No,No,No
+117,Bobbi Brown,Perfume,4.0,414,11200,79.0,No,No,No
+118,BURBERRY,Perfume,4.5,99,8200,97.0,No,No,No
+119,BURBERRY,Perfume Gift Sets,5.0,3,1000,136.0,Yes,No,Yes
+120,BURBERRY,Perfume,4.5,268,18700,99.0,No,No,No
+121,BURBERRY,Perfume Gift Sets,3.5,7,3400,29.0,No,No,No
+122,BURBERRY,Perfume,4.5,337,12300,85.0,No,No,No
+123,BURBERRY,Perfume,4.5,7,1100,80.0,No,No,No
+124,BURBERRY,Perfume,4.5,143,10400,99.0,No,No,No
+125,BURBERRY,Cologne,5.0,137,2500,66.0,No,No,No
+126,BURBERRY,Cologne,5.0,9,1600,99.0,No,No,No
+127,BURBERRY,Perfume,4.5,170,10600,99.0,No,No,No
+128,BURBERRY,Perfume,4.5,556,14600,60.0,No,No,No
+129,BURBERRY,Perfume,4.0,159,503,103.0,Yes,No,No
+130,BURBERRY,Perfume,4.5,38,3300,85.0,No,No,No
+131,BURBERRY,Cologne,5.0,90,1800,80.0,No,No,No
+132,BURBERRY,Perfume,4.5,254,4400,102.0,No,No,No
+133,BURBERRY,Perfume Gift Sets,0.0,0,606,105.0,No,No,Yes
+134,BURBERRY,Cologne,5.0,8,867,71.0,No,No,No
+135,BURBERRY,Cologne,5.0,36,2200,71.0,No,No,No
+136,BURBERRY,Cologne,5.0,39,1700,66.0,No,No,No
+137,BURBERRY,Cologne,4.5,98,1700,84.0,No,No,No
+138,BURBERRY,Perfume,5.0,6,0,30.0,Yes,No,No
+139,BURBERRY,Cologne,4.5,5,457,84.0,No,No,No
+140,BVLGARI,Perfume,4.5,215,13600,98.0,No,No,No
+141,BVLGARI,Perfume,4.5,474,17700,86.0,No,No,No
+142,BVLGARI,Cologne,5.0,14,1600,86.0,No,No,No
+143,BVLGARI,Cologne,5.0,31,3300,94.0,No,No,No
+144,BVLGARI,Perfume,4.5,145,5600,162.0,Yes,No,No
+145,BVLGARI,Perfume,4.5,181,8500,86.0,No,No,No
+146,BVLGARI,Perfume,3.5,21,1700,86.0,No,No,No
+147,BVLGARI,Cologne,5.0,18,719,72.0,No,No,No
+148,BVLGARI,Perfume,1.0,1,558,114.0,Yes,No,No
+149,BVLGARI,Cologne,4.5,7,459,113.0,Yes,No,No
+150,BVLGARI,Cologne,5.0,64,2200,94.0,No,No,No
+151,BVLGARI,Perfume Gift Sets,4.0,4,833,71.0,Yes,No,Yes
+152,BVLGARI,Cologne,0.0,0,50,113.0,Yes,No,No
+153,BVLGARI,Cologne,5.0,97,1700,94.0,No,No,No
+154,BVLGARI,Cologne,5.0,4,446,72.0,Yes,No,No
+155,BVLGARI,Cologne,4.5,43,1000,95.0,Yes,No,No
+156,BVLGARI,Cologne,5.0,5,453,94.0,No,No,No
+157,BVLGARI,Perfume,4.5,15,1600,95.0,Yes,No,No
+158,By Rosie Jane,Perfume,4.0,64,2700,65.0,No,No,No
+159,By Rosie Jane,Perfume,3.0,23,682,65.0,No,No,No
+160,By Rosie Jane,Perfume Gift Sets,4.5,24,3900,30.0,No,Yes,No
+161,By Rosie Jane,Perfume,5.0,9,854,25.0,No,No,No
+162,By Rosie Jane,Perfume,3.0,6,158,65.0,No,No,No
+163,By Rosie Jane,Perfume Gift Sets,3.0,1,331,50.0,Yes,No,Yes
+164,By Rosie Jane,Perfume,4.0,5,721,65.0,No,No,No
+165,By Rosie Jane,Perfume,5.0,1,306,25.0,No,No,No
+166,By Rosie Jane,Perfume,4.5,19,1600,65.0,No,No,No
+167,Calvin Klein,Perfume,4.5,570,10600,79.0,No,No,No
+168,Calvin Klein,Perfume,4.5,186,5900,65.0,No,No,No
+169,Calvin Klein,Cologne,4.5,116,1500,83.0,No,No,No
+170,Calvin Klein,Perfume,4.0,285,2700,73.0,Yes,No,No
+171,Calvin Klein,Perfume,4.5,17,1500,26.0,Yes,No,No
+172,Calvin Klein,Cologne,4.5,2,453,66.0,Yes,No,No
+173,Calvin Klein,Perfume,4.5,4,862,77.0,Yes,No,No
+174,Carolina Herrera,Perfume,4.5,265,24200,96.0,Yes,No,No
+175,Carolina Herrera,Perfume,4.5,28,3100,96.0,Yes,No,No
+176,Carolina Herrera,Perfume,4.0,1,594,124.0,No,No,No
+177,Carolina Herrera,Perfume Gift Sets,5.0,1,669,122.0,No,No,Yes
+178,Carolina Herrera,Cologne,5.0,80,2300,72.0,No,No,No
+179,Carolina Herrera,Perfume,4.0,150,4100,84.0,No,No,No
+180,Carolina Herrera,Perfume,4.5,127,2900,86.0,No,No,No
+181,Carolina Herrera,Cologne,4.5,48,656,92.0,No,Yes,No
+182,Carolina Herrera,Perfume Gift Sets,5.0,1,60,123.0,No,No,Yes
+183,Carolina Herrera,Perfume,4.5,10,1500,86.0,No,No,No
+184,CHANEL,Perfume,4.5,627,111700,105.0,No,No,No
+185,CHANEL,Perfume,5.0,447,68800,85.0,No,No,No
+186,CHANEL,Cologne,5.0,130,18400,95.0,No,No,No
+187,CHANEL,Cologne,5.0,81,13200,77.0,No,No,No
+188,CHANEL,Perfume,4.5,97,16500,105.0,No,No,No
+189,CHANEL,Perfume,4.5,216,28000,115.0,No,No,No
+190,CHANEL,Perfume,4.5,115,17900,115.0,No,No,No
+191,CHANEL,Perfume,5.0,80,16700,105.0,No,No,No
+192,CHANEL,Perfume Gift Sets,3.0,14,7500,80.0,No,Yes,Yes
+193,CHANEL,Perfume,4.5,38,6000,135.0,No,No,No
+194,CHANEL,Perfume,4.0,309,24900,135.0,No,No,No
+195,CHANEL,Perfume,4.5,93,17700,105.0,No,No,No
+196,CHANEL,Cologne,5.0,23,3000,125.0,No,No,No
+197,CHANEL,Perfume,4.5,62,8800,105.0,No,No,No
+198,CHANEL,Perfume,4.5,69,11000,85.0,No,No,No
+199,CHANEL,Perfume Gift Sets,4.5,42,8900,110.0,No,No,No
+200,CHANEL,Cologne,5.0,23,3200,77.0,No,No,No
+201,CHANEL,Cologne,5.0,28,3000,75.0,No,No,No
+202,CHANEL,Perfume,4.0,154,14200,105.0,No,No,No
+203,CHANEL,Perfume,5.0,29,6300,105.0,No,No,No
+204,CHANEL,Perfume,4.5,20,3400,85.0,No,No,No
+205,CHANEL,Perfume,5.0,54,9900,85.0,No,No,No
+206,CHANEL,Cologne,4.5,7,1800,95.0,No,No,No
+207,CHANEL,Perfume Gift Sets,3.5,3,1500,200.0,Yes,No,Yes
+208,CHANEL,Perfume,5.0,14,2900,85.0,No,No,No
+209,CHANEL,Cologne Gift Sets,5.0,6,1300,82.0,No,No,No
+210,CHANEL,Perfume,4.5,16,3100,105.0,No,No,No
+211,CHANEL,Cologne,4.5,11,1400,75.0,No,No,No
+212,CHANEL,Perfume,4.0,38,6400,105.0,No,No,No
+213,CHANEL,Perfume Gift Sets,5.0,2,2000,190.0,Yes,No,Yes
+214,CHANEL,Perfume,3.5,7,4300,130.0,No,No,No
+215,CHANEL,Cologne Gift Sets,4.0,6,1500,105.0,No,No,Yes
+216,CHANEL,Perfume Gift Sets,4.0,2,3600,172.0,No,No,No
+217,CHANEL,Perfume,4.5,55,8800,85.0,No,No,No
+218,CHANEL,Perfume,5.0,13,2300,85.0,No,No,No
+219,CHANEL,Perfume Gift Sets,5.0,2,912,172.0,Yes,No,No
+220,CHANEL,Perfume,2.5,6,1300,70.0,Yes,No,Yes
+221,CHANEL,Perfume,5.0,2,1400,60.0,Yes,No,No
+222,Chloé,Perfume,4.5,1000,89000,132.0,No,No,No
+223,Chloé,Perfume,4.5,467,28500,125.0,No,No,No
+224,Chloé,Perfume,4.0,258,14300,132.0,No,No,No
+225,Chloé,Perfume,4.5,194,13100,132.0,No,No,No
+226,Chloé,Perfume Gift Sets,3.0,13,4600,29.0,No,No,Yes
+227,Chloé,Perfume,4.0,326,1600,119.0,No,No,No
+228,Chloé,Perfume,4.0,62,6500,132.0,No,No,No
+229,Chloé,Perfume,4.0,210,543,142.0,Yes,No,No
+230,Chloé,Perfume,4.5,20,2800,145.0,No,No,Yes
+231,Chloé,Perfume,4.0,84,896,95.0,No,No,No
+232,Chloé,Perfume,4.5,28,1800,132.0,No,No,No
+233,Chloé,Perfume,5.0,4,1900,115.0,No,No,No
+234,Chloé,Perfume,4.5,7,1800,115.0,No,No,No
+235,CLEAN RESERVE,Perfume,4.5,22,1100,98.0,No,Yes,Yes
+236,CLEAN RESERVE,Perfume,4.5,135,5400,98.0,No,Yes,No
+237,CLEAN RESERVE,Fragrance,0.0,0,1300,48.0,No,Yes,No
+238,CLEAN RESERVE,Perfume,4.5,105,5400,98.0,No,No,No
+239,CLEAN RESERVE,Perfume,4.5,87,5500,98.0,No,No,No
+240,CLEAN RESERVE,Fragrance,5.0,6,1700,28.0,No,Yes,No
+241,CLEAN RESERVE,Perfume,4.0,49,2600,98.0,No,Yes,No
+242,CLEAN RESERVE,Perfume,3.0,207,2900,98.0,No,No,No
+243,CLEAN RESERVE,Perfume,4.5,318,10300,44.0,No,No,No
+244,CLEAN RESERVE,Perfume,4.0,533,10100,74.0,No,No,No
+245,CLEAN RESERVE,Perfume,4.0,115,3500,98.0,No,No,No
+246,CLEAN RESERVE,Perfume,4.5,61,4600,98.0,No,No,No
+247,CLEAN RESERVE,Perfume,4.0,128,4900,74.0,No,No,No
+248,CLEAN RESERVE,Perfume,4.0,117,5500,74.0,No,No,No
+249,CLEAN RESERVE,Perfume,4.0,116,3500,98.0,No,No,No
+250,CLEAN RESERVE,Perfume,3.5,252,5400,74.0,No,No,No
+251,CLEAN RESERVE,Perfume,4.0,220,4000,74.0,No,No,No
+252,CLEAN RESERVE,Perfume,4.0,151,3100,74.0,No,No,No
+253,CLEAN RESERVE,Perfume,4.0,61,3400,98.0,No,No,No
+254,CLEAN RESERVE,Perfume Gift Sets,4.0,8,1500,20.0,No,Yes,Yes
+255,CLEAN RESERVE,Perfume,4.5,13,2100,74.0,No,No,No
+256,CLEAN RESERVE,Perfume,4.0,31,3600,74.0,No,No,No
+257,CLEAN RESERVE,Perfume,4.5,24,2100,74.0,No,No,No
+258,CLEAN RESERVE,Perfume,4.5,35,2300,24.0,No,No,No
+259,CLEAN RESERVE,Perfume,4.5,15,1400,74.0,No,No,No
+260,CLEAN RESERVE,Perfume,4.5,6,673,68.0,Yes,No,No
+261,CLEAN RESERVE,Perfume,3.5,7,650,44.0,No,No,Yes
+262,CLEAN RESERVE,Cologne,4.5,7,431,72.0,Yes,No,No
+263,CLEAN RESERVE,Perfume,4.5,16,1800,98.0,No,No,No
+264,CLEAN RESERVE,Perfume,4.5,14,1200,98.0,No,Yes,No
+265,CLINIQUE,Perfume,4.5,630,15500,53.0,No,No,No
+266,CLINIQUE,Perfume,5.0,4,1400,53.0,Yes,No,No
+267,CLINIQUE,Perfume,4.0,62,2100,55.5,No,No,No
+268,CLINIQUE,Cologne,5.0,78,1900,52.0,No,No,No
+269,CLINIQUE,Perfume Gift Sets,0.0,0,81,55.0,Yes,No,Yes
+270,CLINIQUE,Perfume,4.5,187,2200,77.0,No,No,No
+271,Commodity,Perfume,4.0,63,3500,26.0,No,Yes,No
+272,Comptoir Sud Pacifique,Perfume,4.5,178,6700,42.0,No,No,No
+273,Comptoir Sud Pacifique,Perfume,4.5,175,6800,42.0,No,No,No
+274,Comptoir Sud Pacifique,Perfume,4.5,92,6000,42.0,No,No,No
+275,Comptoir Sud Pacifique,Perfume,4.5,26,1700,85.0,Yes,No,No
+276,Comptoir Sud Pacifique,Perfume,4.0,16,1500,85.0,Yes,No,No
+277,Comptoir Sud Pacifique,Perfume,4.5,13,1800,42.0,Yes,No,No
+278,DEREK LAM 10 CROSBY,Perfume,4.5,38,1200,85.0,No,No,No
+279,DEREK LAM 10 CROSBY,Perfume,3.5,117,2600,85.0,No,No,No
+280,DEREK LAM 10 CROSBY,Perfume,4.5,17,954,85.0,No,No,No
+281,DEREK LAM 10 CROSBY,Perfume,4.5,28,1300,85.0,No,No,No
+282,DEREK LAM 10 CROSBY,Perfume,3.5,24,949,85.0,No,No,No
+283,Dior,Cologne,4.5,346,19400,77.0,No,No,No
+284,Dior,Cologne,4.5,79,9000,95.0,No,No,No
+285,Dior,Perfume,4.5,982,47500,105.0,No,No,No
+286,Dior,Perfume,4.0,635,44800,85.0,No,No,No
+287,Dior,Perfume,3.5,197,13300,105.0,No,No,No
+288,Dior,Perfume,4.5,697,24500,85.0,No,No,No
+289,Dior,Perfume,4.0,9,1400,150.0,No,No,No
+290,Dior,Perfume,3.5,28,4400,107.0,No,No,No
+291,Dior,Perfume,3.5,31,2000,107.0,No,No,No
+292,Dior,Perfume,4.5,155,14600,135.0,No,No,No
+293,Dior,Fragrance,4.0,2,0,48.0,No,No,No
+294,Dior,Perfume Gift Sets,0.0,0,315,129.0,No,No,No
+295,Dior,Perfume,3.5,143,9100,100.0,No,No,No
+296,Dior,Perfume Gift Sets,0.0,0,169,149.0,No,No,No
+297,Dior,Cologne,4.0,9,562,75.0,No,No,No
+298,Dior,Perfume,4.5,98,10500,85.0,No,No,No
+299,Dior,Perfume Gift Sets,0.0,0,1000,105.0,No,Yes,Yes
+300,Dior,Perfume,4.5,143,6900,105.0,No,No,No
+301,Dior,Perfume,4.5,94,8400,85.0,No,No,No
+302,Dior,Cologne,4.5,95,3000,75.0,No,No,No
+303,Dior,Perfume,4.0,14,1600,105.0,No,No,No
+304,Dior,Cologne,4.5,27,1700,79.0,No,No,No
+305,Dior,Perfume,4.5,265,10800,105.0,No,No,No
+306,Dior,Cologne,5.0,68,1500,75.0,No,No,No
+307,Dior,Cologne,4.5,12,750,79.0,No,No,No
+308,Dior,Perfume,4.5,6,720,59.0,Yes,No,No
+309,Dior,Perfume,4.5,62,6000,135.0,No,No,No
+310,Dior,Fragrance,0.0,0,157,48.0,No,No,No
+311,Dior,Perfume,4.0,30,3400,105.0,No,No,No
+312,Dior,Perfume,4.5,5,931,140.0,Yes,No,No
+313,Dior,Perfume,4.5,42,5000,62.0,No,No,No
+314,Dior,Perfume Gift Sets,0.0,0,28,149.0,No,No,No
+315,DOLCE&GABBANA,Perfume,4.5,2000,78000,104.0,No,No,No
+316,DOLCE&GABBANA,Perfume Gift Sets,4.5,30,10800,20.0,No,Yes,No
+317,DOLCE&GABBANA,Cologne,5.0,384,8500,90.0,No,No,No
+318,DOLCE&GABBANA,Perfume,4.5,124,13900,110.0,No,No,No
+319,DOLCE&GABBANA,Perfume,4.5,3,740,80.0,No,No,Yes
+320,DOLCE&GABBANA,Perfume,4.5,850,18400,82.0,No,No,No
+321,DOLCE&GABBANA,Perfume,4.5,846,20500,122.0,No,No,No
+322,DOLCE&GABBANA,Perfume,4.5,106,8600,122.0,No,No,No
+323,DOLCE&GABBANA,Cologne,5.0,28,2900,125.0,No,No,No
+324,DOLCE&GABBANA,Perfume,4.5,373,16000,122.0,No,No,No
+325,DOLCE&GABBANA,Cologne,5.0,359,5500,120.0,No,No,No
+326,DOLCE&GABBANA,Perfume,4.5,86,8000,94.0,No,No,No
+327,DOLCE&GABBANA,Perfume,4.0,6,817,122.0,No,No,No
+328,DOLCE&GABBANA,Cologne,4.5,15,1700,134.0,No,No,No
+329,DOLCE&GABBANA,Perfume,4.5,186,7400,94.0,No,No,No
+330,DOLCE&GABBANA,Cologne,0.0,0,112,68.0,No,No,Yes
+331,DOLCE&GABBANA,Perfume,3.5,24,1800,94.0,Yes,No,Yes
+332,DOLCE&GABBANA,Cologne,5.0,4,539,68.0,No,No,Yes
+333,DOLCE&GABBANA,Perfume,4.5,83,4000,123.0,No,No,No
+334,DOLCE&GABBANA,Cologne,4.5,116,1800,90.0,No,No,No
+335,DOLCE&GABBANA,Cologne,4.5,9,871,88.0,No,No,No
+336,DOLCE&GABBANA,Cologne,5.0,8,834,88.0,No,No,No
+337,DOLCE&GABBANA,Perfume,4.0,105,11000,96.0,No,No,No
+338,DOLCE&GABBANA,Perfume,5.0,3,337,80.0,No,No,No
+339,DOLCE&GABBANA,Perfume Gift Sets,4.5,4,1500,45.0,Yes,No,Yes
+340,Donna Karan,Perfume,4.5,237,6700,100.0,No,No,No
+341,Donna Karan,Perfume Gift Sets,0.0,0,1000,32.0,Yes,No,Yes
+342,Donna Karan,Perfume Gift Sets,5.0,1,72,124.0,Yes,No,Yes
+343,Donna Karan,Perfume,4.5,395,4000,102.0,No,No,No
+344,Eight & Bob,Perfume,2.0,1,177,175.0,Yes,No,No
+345,Eight & Bob,Perfume,5.0,2,816,175.0,Yes,No,No
+346,Elizabeth and James,Perfume,4.0,84,6100,68.0,No,Yes,No
+347,Elizabeth and James,Perfume,4.5,127,5400,85.0,No,Yes,No
+348,Elizabeth and James,Perfume,4.0,24,3200,48.0,No,No,Yes
+349,Elizabeth and James,Perfume,4.0,10,3000,48.0,No,No,Yes
+350,Elizabeth and James,Perfume,3.5,63,5200,35.0,No,No,No
+351,ELLIS BROOKLYN,Perfume,4.5,104,7700,100.0,No,No,No
+352,ELLIS BROOKLYN,Perfume Gift Sets,4.0,7,1800,27.0,No,No,No
+353,ELLIS BROOKLYN,Perfume,4.5,35,1800,100.0,Yes,No,No
+354,ELLIS BROOKLYN,Perfume Gift Sets,4.0,35,4500,22.0,No,No,Yes
+355,ELLIS BROOKLYN,Perfume,4.5,26,4100,100.0,No,No,No
+356,ELLIS BROOKLYN,Perfume,4.0,45,1900,100.0,Yes,No,No
+357,ELLIS BROOKLYN,Perfume Gift Sets,4.5,14,3700,25.0,Yes,No,Yes
+358,ELLIS BROOKLYN,Perfume,4.0,11,990,100.0,No,No,No
+359,ELLIS BROOKLYN,Perfume Gift Sets,5.0,1,859,26.0,No,Yes,Yes
+360,ELLIS BROOKLYN,Perfume Gift Sets,5.0,2,536,108.0,Yes,No,Yes
+361,ELLIS BROOKLYN,Perfume Gift Sets,0.0,0,538,50.0,Yes,Yes,Yes
+362,ELLIS BROOKLYN,Perfume,4.5,7,919,70.0,Yes,No,No
+363,ELLIS BROOKLYN,Perfume,4.5,7,1100,100.0,No,No,No
+364,ELLIS BROOKLYN,Perfume,4.5,10,819,100.0,Yes,No,No
+365,Estée Lauder,Perfume,5.0,24,3400,98.0,No,No,No
+366,Estée Lauder,Perfume,5.0,20,2200,85.0,No,No,No
+367,Estée Lauder,Perfume,4.0,41,3800,115.0,No,No,No
+368,Estée Lauder,Perfume,4.5,36,3400,170.0,No,No,No
+369,Estée Lauder,Perfume,4.5,27,3100,95.0,Yes,No,No
+370,Estée Lauder,Perfume,4.5,16,2200,98.0,No,No,No
+371,Etat Libre d'Orange,Perfume,3.0,7,789,90.0,No,No,No
+372,Floral Street,Perfume,4.5,16,970,78.0,No,Yes,No
+373,Floral Street,Perfume,4.5,450,751,78.0,No,Yes,No
+374,Floral Street,Perfume,4.0,429,1000,78.0,No,Yes,No
+375,Floral Street,Perfume,5.0,2,286,78.0,Yes,Yes,No
+376,Floral Street,Perfume,4.0,3,155,78.0,Yes,Yes,No
+377,Floral Street,Perfume,3.0,406,287,78.0,Yes,Yes,No
+378,Floral Street,Perfume,4.5,3,239,78.0,No,Yes,No
+379,Floral Street,Perfume,4.0,380,236,78.0,No,Yes,No
+380,Floral Street,Perfume,4.0,4,207,78.0,Yes,Yes,No
+381,Fresh,Perfume,4.5,263,10400,50.0,No,No,No
+382,Fresh,Perfume,4.0,408,12500,50.0,No,No,No
+383,Fresh,Perfume,4.5,353,16100,50.0,No,No,No
+384,Fresh,Perfume,4.5,343,13100,50.0,No,No,No
+385,Fresh,Perfume,4.0,246,6800,50.0,No,No,No
+386,Fresh,Perfume,4.0,125,6100,50.0,No,No,No
+387,Fresh,Perfume,3.5,40,2600,90.0,No,No,No
+388,Fresh,Perfume,4.0,154,3900,50.0,No,No,No
+389,Givenchy,Perfume,4.5,55,223,93.0,No,No,No
+390,Givenchy,Perfume,4.0,1,39,93.0,No,No,No
+391,Givenchy,Perfume,4.5,341,8900,92.0,No,No,No
+392,Givenchy,Perfume,4.5,381,9000,102.0,No,No,No
+393,Givenchy,Perfume,5.0,106,7600,92.0,No,No,No
+394,Givenchy,Cologne,5.0,19,932,104.0,Yes,No,No
+395,Givenchy,Cologne,4.5,17,1500,94.0,No,No,No
+396,Givenchy,Perfume,4.5,10,848,150.0,No,Yes,No
+397,Givenchy,Perfume,4.5,382,10600,78.0,No,No,No
+398,Givenchy,Perfume,4.5,8,575,150.0,No,Yes,No
+399,Givenchy,Perfume,4.5,94,3000,78.0,No,No,No
+400,Givenchy,Cologne,5.0,60,3000,93.0,No,No,No
+401,Givenchy,Cologne,4.5,125,2600,94.0,No,No,No
+402,Givenchy,Perfume,5.0,11,664,75.0,No,No,No
+403,Givenchy,Perfume,3.5,7,924,235.0,No,No,No
+404,Givenchy,Cologne,4.0,4,430,85.0,No,No,No
+405,Givenchy,Cologne,3.5,3,254,89.0,No,No,No
+406,Givenchy,Perfume,5.0,4,457,235.0,No,No,No
+407,Givenchy,Perfume,5.0,1,351,235.0,No,No,No
+408,Givenchy,Perfume,5.0,2,571,235.0,No,No,No
+409,Givenchy,Perfume,5.0,1,269,235.0,No,No,No
+410,Givenchy,Perfume,5.0,1,564,235.0,No,No,No
+411,Givenchy,Perfume,5.0,1,447,235.0,No,No,No
+412,Givenchy,Perfume,5.0,1,605,235.0,No,No,No
+413,Givenchy,Perfume,5.0,3,637,235.0,No,No,No
+414,Givenchy,Perfume,4.5,5,894,235.0,No,No,No
+415,Givenchy,Perfume,4.0,2,266,235.0,No,No,No
+416,Gucci,Perfume,4.0,361,35400,100.0,No,No,No
+417,Gucci,Perfume,4.5,316,21700,80.0,No,Yes,No
+418,Gucci,Perfume Gift Sets,0.0,0,1200,85.0,No,Yes,Yes
+419,Gucci,Perfume,4.0,152,11200,80.0,No,Yes,Yes
+420,Gucci,Perfume,4.5,832,36800,80.0,No,No,No
+421,Gucci,Cologne,4.5,207,7600,124.0,No,No,No
+422,Gucci,Perfume,4.5,155,10700,97.0,No,Yes,No
+423,Gucci,Perfume Gift Sets,5.0,4,2000,39.0,Yes,Yes,Yes
+424,Gucci,Perfume Gift Sets,4.5,6,2400,105.0,No,No,Yes
+425,Gucci,Cologne,4.5,48,1500,109.0,No,No,No
+426,Gucci,Perfume,3.5,234,5100,120.0,No,No,No
+427,Gucci,Perfume,4.5,359,8200,82.0,No,No,No
+428,Gucci,Perfume,4.0,82,8900,83.0,No,No,No
+429,Gucci,Cologne,4.5,71,2900,95.0,No,No,No
+430,Gucci,Perfume,4.5,188,14700,74.0,No,No,No
+431,Gucci,Perfume,4.0,110,6000,107.0,No,No,No
+432,Gucci,Perfume,4.0,141,2800,107.0,No,No,No
+433,Gucci,Perfume,4.0,223,2500,96.0,No,No,Yes
+434,Gucci,Perfume,4.5,318,9000,102.0,No,No,No
+435,Gucci,Perfume,4.0,61,1500,96.0,No,No,No
+436,Gucci,Perfume,4.5,165,6500,75.0,No,No,No
+437,Gucci,Cologne,4.5,128,483,95.0,No,No,Yes
+438,Gucci,Perfume,4.0,81,962,112.0,No,No,No
+439,Gucci,Perfume,4.5,513,8300,80.0,No,Yes,No
+440,Gucci,Cologne,3.5,28,610,103.0,No,No,No
+441,Gucci,Cologne,4.5,144,2200,73.0,No,No,No
+442,Gucci,Cologne,4.5,3,696,76.0,No,No,No
+443,Gucci,Perfume Gift Sets,4.5,15,3500,72.0,No,Yes,Yes
+444,Gucci,Perfume Gift Sets,5.0,2,881,92.0,Yes,No,Yes
+445,Gucci,Cologne,4.5,48,1800,76.0,No,No,No
+446,Gucci,Cologne,4.0,131,318,76.0,No,No,No
+447,Gucci,Perfume,4.0,21,1400,80.0,No,No,No
+448,Gucci,Perfume,4.5,154,7500,96.0,No,No,No
+449,Gucci,Perfume Gift Sets,0.0,0,304,112.0,No,No,Yes
+450,Gucci,Cologne,5.0,114,2000,92.0,No,No,No
+451,Gucci,Perfume,4.5,103,8700,80.0,No,Yes,Yes
+452,Gucci,Perfume,4.0,25,2600,85.0,No,No,No
+453,Gucci,Perfume Gift Sets,4.0,5,819,146.0,Yes,No,Yes
+454,Guerlain,Perfume,4.5,324,21000,72.0,Yes,No,No
+455,Guerlain,Perfume,4.0,215,6000,100.0,Yes,No,No
+456,Guerlain,Perfume,4.5,36,2600,144.0,Yes,No,No
+457,Guerlain,Perfume,4.0,8,1000,130.0,Yes,No,No
+458,Guerlain,Perfume,5.0,4,831,145.0,Yes,No,No
+459,Guerlain,Perfume,4.5,53,3900,110.0,Yes,No,No
+460,Guerlain,Perfume,4.5,13,1700,130.0,Yes,No,No
+461,Guerlain,Perfume,4.0,11,896,130.0,Yes,No,No
+462,Guerlain,Perfume,4.0,39,2300,82.0,Yes,No,No
+463,Guerlain,Perfume,4.5,104,2300,88.0,Yes,No,No
+464,Guerlain,Perfume,3.0,1,577,116.0,Yes,No,No
+465,HERMÈS,Perfume Gift Sets,4.5,13,15800,50.0,No,Yes,Yes
+466,HERMÈS,Perfume Gift Sets,5.0,4,3900,50.0,No,Yes,No
+467,HERMÈS,Cologne,4.5,147,6800,124.0,No,No,No
+468,HERMÈS,Perfume,4.0,184,11400,134.0,No,No,No
+469,HERMÈS,Cologne,5.0,16,2000,138.0,No,No,No
+470,HERMÈS,Perfume,4.5,28,3100,190.0,No,No,No
+471,HERMÈS,Perfume,4.5,88,7900,151.0,No,No,No
+472,HERMÈS,Perfume,4.5,117,10200,139.0,No,No,No
+473,HERMÈS,Perfume,4.5,85,6300,139.0,No,No,No
+474,HERMÈS,Cologne,4.0,8,705,96.0,No,No,No
+475,HERMÈS,Perfume,4.5,3,284,111.0,No,No,No
+476,HERMÈS,Perfume,4.5,8,941,96.0,No,No,No
+477,HERMÈS,Perfume,4.5,29,4600,112.0,No,No,No
+478,HERMÈS,Perfume,5.0,36,3200,114.0,Yes,No,No
+479,HERMÈS,Perfume,4.0,14,1700,134.0,No,No,No
+480,HERMÈS,Perfume,4.5,50,3400,102.0,No,No,No
+481,HERMÈS,Perfume,4.0,15,2300,131.0,No,No,No
+482,HERMÈS,Perfume,4.0,20,1300,102.0,No,No,No
+483,HERMÈS,Perfume,4.5,28,2000,131.0,Yes,No,No
+484,HERMÈS,Cologne,4.5,6,599,93.0,No,No,No
+485,HERMÈS,Perfume,4.5,85,5200,139.0,No,No,No
+486,HERMÈS,Perfume,5.0,3,539,168.0,Yes,No,No
+487,HERMÈS,Perfume,4.5,14,1700,131.0,No,No,No
+488,HERMÈS,Perfume,4.5,3,903,131.0,No,No,No
+489,HERMÈS,Perfume Gift Sets,5.0,3,717,133.0,No,No,No
+490,HERMÈS,Perfume,4.5,23,1900,127.0,No,No,No
+491,HERMÈS,Perfume,4.0,18,1600,168.0,Yes,No,No
+492,HERMÈS,Perfume,4.0,7,484,131.0,No,No,No
+493,HERMÈS,Perfume Gift Sets,0.0,0,195,92.0,No,No,No
+494,HUDA BEAUTY,Perfume,4.0,283,11500,118.0,Yes,No,No
+495,HUDA BEAUTY,Perfume,4.5,20,1400,85.0,Yes,Yes,No
+496,HUDA BEAUTY,Perfume,3.5,172,3900,118.0,Yes,No,No
+497,HUDA BEAUTY,Perfume,4.0,135,2800,118.0,Yes,No,No
+498,HUDA BEAUTY,Perfume,4.0,124,2500,118.0,Yes,No,No
+499,JIMMY CHOO,Cologne,4.5,69,3100,92.0,No,No,No
+500,JIMMY CHOO,Cologne,5.0,6,630,75.0,No,No,No
+501,JIMMY CHOO,Perfume,0.0,0,145,98.0,No,No,No
+502,Jo Malone London,Perfume,4.0,264,32400,140.0,No,No,No
+503,Jo Malone London,Perfume,4.0,145,20600,140.0,No,No,No
+504,Jo Malone London,Perfume Gift Sets,3.5,3,1800,45.0,No,Yes,No
+505,Jo Malone London,Perfume,4.0,107,17900,140.0,No,No,No
+506,Jo Malone London,Perfume,4.5,171,27100,140.0,No,No,No
+507,Jo Malone London,Perfume,4.5,32,3400,140.0,No,No,No
+508,Jo Malone London,Perfume,4.5,66,10600,140.0,No,No,No
+509,Jo Malone London,Perfume,4.5,66,8900,140.0,No,No,No
+510,Jo Malone London,Perfume,4.0,70,10100,140.0,No,No,No
+511,Jo Malone London,Perfume,4.0,4,1700,72.0,No,No,Yes
+512,Jo Malone London,Perfume,4.5,74,10100,140.0,No,No,No
+513,Jo Malone London,Perfume,4.5,67,13100,140.0,No,No,No
+514,Jo Malone London,Perfume,4.5,34,4400,190.0,No,No,No
+515,Jo Malone London,Perfume,3.5,45,5300,140.0,No,No,No
+516,Jo Malone London,Perfume,4.5,34,5200,190.0,No,No,No
+517,Jo Malone London,Perfume,4.5,22,4400,190.0,No,No,No
+518,Jo Malone London,Perfume,5.0,24,3500,130.0,No,No,No
+519,Jo Malone London,Perfume,3.5,3,677,70.0,No,No,No
+520,Jo Malone London,Perfume,4.0,12,2400,190.0,No,No,No
+521,Jo Malone London,Perfume,4.0,43,3800,140.0,No,No,No
+522,Jo Malone London,Perfume,4.0,60,6400,140.0,No,No,No
+523,Jo Malone London,Perfume,4.5,45,5000,140.0,No,No,No
+524,Jo Malone London,Perfume,4.5,10,2100,190.0,No,No,No
+525,Jo Malone London,Perfume,3.5,9,2000,190.0,No,No,No
+526,Jo Malone London,Perfume,4.5,14,3000,140.0,No,No,No
+527,Jo Malone London,Perfume,4.5,9,2100,72.0,No,No,Yes
+528,Jo Malone London,Perfume,3.0,3,425,130.0,No,No,No
+529,Jo Malone London,Perfume Gift Sets,4.0,5,3400,130.0,No,No,No
+530,Jo Malone London,Perfume,4.0,6,2300,72.0,No,No,Yes
+531,Jo Malone London,Perfume,3.5,3,664,180.0,No,No,No
+532,John Varvatos,Cologne,4.5,129,1900,92.0,No,No,No
+533,John Varvatos,Cologne,4.5,81,2000,72.0,No,No,No
+534,John Varvatos,Cologne,5.0,139,2100,72.0,No,No,No
+535,John Varvatos,Cologne,4.0,26,951,69.0,No,No,Yes
+536,John Varvatos,Cologne,5.0,12,853,72.0,No,No,Yes
+537,John Varvatos,Cologne,4.0,5,429,94.0,No,No,No
+538,John Varvatos,Perfume,0.0,0,60,94.0,No,No,Yes
+539,John Varvatos,Cologne,5.0,5,258,74.0,Yes,No,Yes
+540,John Varvatos,Cologne,4.0,4,455,160.0,Yes,No,No
+541,Juicy Couture,Perfume,4.5,1000,35300,79.0,No,No,No
+542,Juicy Couture,Perfume Gift Sets,0.0,0,340,100.0,Yes,No,Yes
+543,Juicy Couture,Perfume,4.5,133,8100,79.0,No,No,No
+544,Juicy Couture,Perfume,4.5,61,6500,79.0,Yes,No,No
+545,Juicy Couture,Perfume,4.5,579,9000,76.0,No,No,No
+546,Juicy Couture,Perfume,4.0,22,2400,85.0,Yes,No,No
+547,Juicy Couture,Perfume,4.5,118,7200,99.0,No,No,No
+548,Juicy Couture,Perfume,4.5,29,2500,76.0,No,No,No
+549,Juicy Couture,Perfume,4.5,12,1400,130.0,Yes,No,No
+550,Juliette Has a Gun,Perfume,4.0,632,26600,135.0,No,No,No
+551,Juliette Has a Gun,Perfume,4.0,122,6200,135.0,No,No,No
+552,Juliette Has a Gun,Perfume Gift Sets,4.0,7,2700,28.0,Yes,No,Yes
+553,Juliette Has a Gun,Perfume,4.5,113,5600,135.0,No,No,No
+554,Juliette Has a Gun,Perfume Gift Sets,5.0,8,1300,99.0,No,Yes,Yes
+555,Juliette Has a Gun,Perfume,4.0,81,2700,135.0,No,No,No
+556,Juliette Has a Gun,Perfume,3.5,112,5200,135.0,Yes,No,No
+557,Juliette Has a Gun,Perfume,4.5,73,5100,28.0,No,Yes,No
+558,Juliette Has a Gun,Perfume,4.0,25,2800,135.0,No,No,No
+559,Juliette Has a Gun,Perfume,4.0,38,2100,145.0,No,No,No
+560,Juliette Has a Gun,Perfume,3.5,7,449,58.0,No,No,No
+561,Juliette Has a Gun,Perfume,4.0,33,2200,145.0,No,No,No
+562,Juliette Has a Gun,Perfume,4.5,32,1800,145.0,No,No,No
+563,Juliette Has a Gun,Perfume,4.0,16,1700,135.0,No,No,No
+564,Juliette Has a Gun,Perfume,4.0,19,1900,135.0,No,No,No
+565,Juliette Has a Gun,Perfume,4.5,54,5400,35.0,No,No,No
+566,Juliette Has a Gun,Perfume,4.0,22,2000,145.0,No,No,No
+567,kate spade new york,Perfume,4.5,36,3900,78.0,Yes,No,No
+568,kate spade new york,Perfume,4.5,55,3400,58.0,Yes,No,No
+569,Kenzo,Perfume,4.0,476,7800,62.0,No,No,No
+570,Kenzo,Perfume,4.5,329,4600,87.0,No,No,No
+571,Kenzo,Cologne,4.0,1,145,63.0,No,No,No
+572,Kilian,Perfume,4.0,42,7300,295.0,Yes,No,No
+573,Kilian,Perfume,4.5,191,7400,135.0,No,No,No
+574,Kilian,Perfume,4.5,45,5900,240.0,No,No,No
+575,Kilian,Perfume Gift Sets,5.0,15,2100,75.0,No,Yes,Yes
+576,Kilian,Perfume,4.5,14,4000,240.0,Yes,No,No
+577,Kilian,Perfume,4.5,4,804,240.0,Yes,No,No
+578,Kilian,Perfume,4.0,51,2600,135.0,No,No,No
+579,Kilian,Perfume,4.0,6,1300,240.0,No,No,No
+580,Kilian,Perfume,4.5,19,1500,135.0,No,Yes,No
+581,Kilian,Perfume,5.0,5,1400,240.0,Yes,No,No
+582,Kilian,Perfume,5.0,5,898,240.0,No,No,No
+583,Kilian,Perfume,4.5,27,1200,135.0,No,No,No
+584,Kilian,Perfume,4.5,6,2000,240.0,Yes,No,No
+585,Kilian,Perfume,4.5,28,3100,135.0,No,No,No
+586,Kilian,Perfume Gift Sets,3.5,12,2300,22.0,No,Yes,No
+587,Kilian,Perfume Gift Sets,5.0,1,664,195.0,Yes,No,No
+588,Kilian,Perfume,4.5,10,1100,240.0,Yes,No,No
+589,Kilian,Perfume,0.0,0,79,210.0,Yes,No,Yes
+590,KVD Vegan Beauty,Perfume,4.5,3000,43600,85.0,No,Yes,No
+591,KVD Vegan Beauty,Perfume,4.0,1000,27400,85.0,No,Yes,No
+592,KVD Vegan Beauty,Perfume Gift Sets,4.0,7,5900,19.0,No,Yes,No
+593,Lancôme,Perfume,4.5,861,39500,99.0,No,No,No
+594,Lancôme,Perfume,4.5,515,7700,96.0,No,No,No
+595,Lancôme,Perfume Gift Sets,5.0,1,391,69.0,Yes,No,No
+596,Lancôme,Perfume,4.5,27,4300,99.0,No,No,No
+597,Lancôme,Perfume,4.0,85,5000,91.0,No,No,No
+598,Lancôme,Perfume,4.5,101,7000,65.0,No,No,No
+599,Lancôme,Perfume,4.5,8,883,133.0,No,No,No
+600,Maison Louis Marie,Perfume,4.0,57,4000,85.0,No,No,No
+601,Maison Louis Marie,Perfume Gift Sets,2.5,2,570,30.0,Yes,Yes,No
+602,Maison Louis Marie,Perfume Gift Sets,4.0,21,3300,48.0,No,Yes,Yes
+603,Maison Louis Marie,Perfume Gift Sets,3.0,1,548,55.0,Yes,No,No
+604,Maison Louis Marie,Perfume Gift Sets,4.0,2,1200,18.0,Yes,Yes,Yes
+605,Maison Louis Marie,Perfume,5.0,7,939,85.0,No,No,No
+606,Maison Louis Marie,Perfume Gift Sets,5.0,5,1300,110.0,Yes,Yes,Yes
+607,Maison Louis Marie,Perfume,5.0,2,827,85.0,No,No,No
+608,Maison Louis Marie,Perfume,3.5,5,647,57.0,No,No,No
+609,Maison Louis Marie,Perfume,3.0,1,336,85.0,No,No,No
+610,Maison Margiela,Cologne,4.5,415,18900,130.0,No,No,No
+611,Maison Margiela,Perfume,4.0,244,17600,130.0,No,No,No
+612,Maison Margiela,Perfume,4.0,817,37000,130.0,No,No,No
+613,Maison Margiela,Perfume,4.5,864,41900,130.0,No,No,No
+614,Maison Margiela,Perfume Gift Sets,4.0,57,12300,35.0,No,Yes,Yes
+615,Maison Margiela,Perfume,4.5,232,6800,130.0,No,No,No
+616,Maison Margiela,Perfume,4.0,139,3700,130.0,No,Yes,No
+617,Maison Margiela,Perfume,4.5,108,11100,130.0,No,No,No
+618,Maison Margiela,Perfume Gift Sets,4.5,19,11300,68.0,No,Yes,Yes
+619,Maison Margiela,Perfume,4.0,168,13700,130.0,No,No,No
+620,Maison Margiela,Perfume Gift Sets,3.5,3,2700,66.0,No,No,No
+621,Maison Margiela,Perfume,4.5,195,5100,130.0,No,No,No
+622,Maison Margiela,Cologne,4.0,74,3700,130.0,No,No,No
+623,Maison Margiela,Perfume Gift Sets,5.0,12,3900,66.0,No,No,No
+624,Maison Margiela,Perfume Gift Sets,1.0,1,523,35.0,No,Yes,No
+625,Maison Margiela,Perfume,4.5,27,4700,30.0,No,Yes,No
+626,Maison Margiela,Perfume Gift Sets,3.5,12,3500,25.0,No,Yes,No
+627,Maison Margiela,Perfume,4.0,315,11900,130.0,No,No,No
+628,Maison Margiela,Perfume,3.5,141,4400,130.0,No,No,No
+629,Maison Margiela,Perfume,3.5,23,2600,180.0,No,No,No
+630,Maison Margiela,Perfume,4.0,8,973,30.0,No,Yes,No
+631,Maison Margiela,Perfume,4.0,25,2300,30.0,No,Yes,No
+632,Marc Jacobs Fragrances,Perfume,4.5,1000,84800,106.0,No,No,No
+633,Marc Jacobs Fragrances,Perfume,4.5,923,44300,118.0,No,No,No
+634,Marc Jacobs Fragrances,Perfume,4.5,248,15300,106.0,No,No,No
+635,Marc Jacobs Fragrances,Perfume,4.0,282,24100,86.0,No,No,No
+636,Marc Jacobs Fragrances,Perfume,4.5,184,8000,106.0,No,No,No
+637,Marc Jacobs Fragrances,Perfume Gift Sets,4.5,36,11900,22.0,No,Yes,Yes
+638,Marc Jacobs Fragrances,Fragrance,0.0,0,653,55.0,No,No,Yes
+639,Marc Jacobs Fragrances,Perfume,5.0,13,1600,86.0,No,Yes,Yes
+640,Marc Jacobs Fragrances,Cologne,5.0,84,2200,93.0,No,No,No
+641,Marc Jacobs Fragrances,Perfume,4.0,110,6300,99.0,No,No,No
+642,Marc Jacobs Fragrances,Perfume,5.0,5,1800,86.0,No,Yes,Yes
+643,Marc Jacobs Fragrances,Perfume,4.5,194,7400,95.0,No,No,No
+644,Marc Jacobs Fragrances,Perfume Gift Sets,0.0,0,237,114.0,Yes,No,Yes
+645,Marc Jacobs Fragrances,Perfume,4.5,65,6200,95.0,No,No,No
+646,Marc Jacobs Fragrances,Perfume,4.0,34,3100,62.0,No,No,Yes
+647,Marc Jacobs Fragrances,Perfume,4.5,4,1300,100.0,No,Yes,Yes
+648,Marc Jacobs Fragrances,Perfume,4.0,1,737,86.0,No,Yes,Yes
+649,Marc Jacobs Fragrances,Perfume,4.0,37,2000,62.0,No,No,Yes
+650,Marc Jacobs Fragrances,Perfume,4.0,21,1700,62.0,No,No,Yes
+651,Marc Jacobs Fragrances,Perfume Gift Sets,0.0,0,610,90.0,No,Yes,Yes
+652,Marc Jacobs Fragrances,Perfume Gift Sets,4.5,8,1200,90.0,No,Yes,Yes
+653,Marc Jacobs Fragrances,Perfume Gift Sets,0.0,0,1600,45.0,No,Yes,No
+654,Michael Kors,Perfume,4.5,510,10900,118.0,Yes,No,No
+655,Michael Kors,Perfume,4.0,50,5100,118.0,Yes,No,No
+656,Michael Kors,Perfume,4.5,50,5000,112.0,No,No,No
+657,Michael Kors,Perfume Gift Sets,0.0,0,108,122.0,Yes,No,Yes
+658,Michael Kors,Cologne,5.0,7,781,56.0,Yes,No,No
+659,Miu Miu,Perfume,4.0,70,3400,99.0,No,No,No
+660,Miu Miu,Perfume Gift Sets,4.5,14,10600,28.0,Yes,Yes,Yes
+661,Miu Miu,Perfume,3.5,301,10300,126.0,No,No,No
+662,Miu Miu,Perfume,4.0,82,7800,107.0,No,No,No
+663,Miu Miu,Perfume,3.5,144,6600,126.0,No,No,No
+664,Miu Miu,Perfume Gift Sets,5.0,1,1000,35.0,No,No,Yes
+665,Miu Miu,Perfume,4.0,16,2300,99.0,No,No,No
+666,Miu Miu,Perfume Gift Sets,5.0,2,565,87.0,No,No,Yes
+667,Miu Miu,Perfume Gift Sets,0.0,0,306,85.0,Yes,No,Yes
+668,Montblanc,Cologne,5.0,148,5100,92.0,No,No,No
+669,Montblanc,Perfume,5.0,9,522,98.0,No,No,No
+670,Montblanc,Cologne,5.0,28,1500,75.0,No,No,No
+671,Montblanc,Cologne,5.0,6,650,78.0,No,No,No
+672,Moschino,Perfume,4.5,55,6500,76.0,Yes,No,No
+673,Moschino,Cologne,4.0,4,309,96.0,Yes,No,No
+674,Moschino,Perfume Gift Sets,4.0,11,3200,20.0,No,No,No
+675,Moschino,Perfume,4.0,119,15300,62.0,No,No,No
+676,Mugler,Perfume,4.5,862,24800,120.0,No,No,No
+677,Mugler,Perfume,4.0,1000,21500,84.0,No,No,No
+678,Mugler,Perfume,4.0,33,2000,70.0,No,No,No
+679,Narciso Rodriguez,Perfume,4.5,619,12400,58.0,No,No,No
+680,Narciso Rodriguez,Perfume,4.5,16,1300,100.0,Yes,No,No
+681,Narciso Rodriguez,Perfume,4.5,14,2400,128.0,No,No,No
+682,Narciso Rodriguez,Perfume,4.5,312,10600,100.0,No,No,No
+683,Narciso Rodriguez,Fragrance,0.0,0,347,46.0,Yes,No,Yes
+684,Narciso Rodriguez,Perfume Gift Sets,4.0,7,2900,40.0,No,No,No
+685,NEST New York,Perfume,4.0,123,5800,74.0,No,Yes,No
+686,NEST New York,Perfume,4.5,41,2700,74.0,No,Yes,No
+687,NEST New York,Perfume Gift Sets,4.0,2,2000,40.0,No,Yes,Yes
+688,NEST New York,Perfume,4.5,480,17700,74.0,No,No,No
+689,NEST New York,Perfume,4.5,88,5500,128.0,Yes,No,No
+690,NEST New York,Perfume,4.5,11,3000,27.0,No,Yes,No
+691,NEST New York,Perfume Gift Sets,4.5,9,2700,22.0,No,Yes,Yes
+692,NEST New York,Perfume,4.5,206,10600,74.0,No,No,No
+693,NEST New York,Perfume,4.5,328,10600,74.0,No,No,No
+694,NEST New York,Perfume,4.5,265,8600,74.0,No,No,No
+695,NEST New York,Perfume,4.5,66,4800,74.0,No,Yes,No
+696,NEST New York,Perfume,4.5,133,6800,74.0,No,No,No
+697,NEST New York,Fragrance,0.0,0,154,54.0,No,No,Yes
+698,NEST New York,Fragrance,0.0,0,107,54.0,Yes,No,Yes
+699,NEST New York,Perfume Gift Sets,0.0,0,261,22.0,No,Yes,Yes
+700,NEST New York,Perfume Gift Sets,4.5,8,912,14.0,No,Yes,Yes
+701,NEST New York,Perfume Gift Sets,4.5,40,7400,40.0,No,Yes,No
+702,Origins,Perfume,4.5,42,4100,61.5,No,No,No
+703,OUAI,Perfume,4.0,70,6000,56.0,No,No,No
+704,OUAI,Perfume,4.0,98,7500,56.0,No,No,No
+705,Paco Rabanne,Cologne,4.5,385,10000,92.0,No,No,No
+706,Paco Rabanne,Cologne,5.0,133,6100,92.0,No,No,No
+707,Paco Rabanne,Cologne,4.5,30,1300,92.0,No,No,No
+708,Paco Rabanne,Cologne,5.0,35,1400,100.0,No,No,No
+709,Paco Rabanne,Perfume,5.0,8,493,100.0,No,No,No
+710,Paco Rabanne,Cologne,5.0,12,575,92.0,No,No,No
+711,Paco Rabanne,Cologne,4.5,11,883,86.0,No,No,No
+712,philosophy,Perfume,4.5,1000,31100,50.0,No,No,No
+713,philosophy,Perfume,4.5,828,14300,50.0,No,No,No
+714,philosophy,Perfume Gift Sets,0.0,0,205,58.0,Yes,No,Yes
+715,philosophy,Perfume,4.5,130,6300,50.0,No,No,No
+716,philosophy,Perfume,4.0,48,2100,60.0,No,No,No
+717,philosophy,Perfume,4.5,572,9300,50.0,No,No,No
+718,philosophy,Perfume,4.0,193,7800,42.0,No,No,No
+719,philosophy,Perfume,4.0,72,1500,50.0,Yes,No,No
+720,philosophy,Perfume Gift Sets,4.0,1,302,74.0,No,No,No
+721,philosophy,Perfume,4.0,35,2200,50.0,No,No,No
+722,philosophy,Perfume,4.5,420,2500,50.0,No,No,Yes
+723,philosophy,Perfume Gift Sets,4.5,3,926,49.0,Yes,No,Yes
+724,philosophy,Perfume,4.0,103,2100,50.0,No,No,No
+725,PHLUR,Perfume,4.5,21,1200,96.0,No,No,No
+726,PHLUR,Perfume,4.5,54,2500,96.0,No,No,No
+727,PHLUR,Perfume,4.0,27,764,96.0,No,No,No
+728,PHLUR,Perfume Gift Sets,4.0,6,839,18.0,No,No,No
+729,PHLUR,Perfume,4.5,11,689,96.0,No,No,No
+730,PHLUR,Cologne,4.5,13,771,96.0,No,No,No
+731,PHLUR,Perfume,4.5,18,1100,96.0,No,No,No
+732,PHLUR,Perfume,4.5,8,677,96.0,No,No,No
+733,PHLUR,Perfume,4.5,14,793,96.0,No,No,No
+734,Pink Sugar,Perfume,4.5,3000,47300,30.0,No,Yes,No
+735,PINROSE,Perfume,4.0,151,8600,77.0,No,Yes,No
+736,PINROSE,Perfume,4.0,77,3300,77.0,No,Yes,No
+737,PINROSE,Perfume,4.0,71,3700,77.0,No,Yes,No
+738,PINROSE,Perfume Gift Sets,4.0,8,2000,25.0,No,Yes,Yes
+739,PINROSE,Perfume,4.0,68,3600,77.0,No,Yes,No
+740,PINROSE,Perfume,4.0,28,2400,77.0,No,Yes,No
+741,PINROSE,Perfume,4.0,37,2900,77.0,No,Yes,No
+742,PINROSE,Perfume,4.5,13,3200,48.0,No,Yes,No
+743,PINROSE,Perfume,4.0,73,4400,77.0,No,Yes,No
+744,PINROSE,Perfume,5.0,1,294,27.0,No,No,No
+745,PINROSE,Perfume,5.0,2,244,27.0,No,No,No
+746,PINROSE,Perfume,4.0,39,2800,77.0,No,Yes,No
+747,PINROSE,Perfume,4.0,20,1700,77.0,No,Yes,No
+748,Prada,Perfume,4.0,1000,45200,126.0,No,No,No
+749,Prada,Cologne,5.0,55,3400,94.0,No,No,No
+750,Prada,Cologne,5.0,152,5200,112.0,No,No,No
+751,Prada,Cologne,5.0,34,1800,102.0,No,No,No
+752,Prada,Cologne,5.0,101,3500,94.0,No,No,No
+753,Prada,Perfume,4.0,20,1900,76.0,No,No,No
+754,Prada,Perfume,4.5,101,8400,126.0,No,No,No
+755,Prada,Perfume,3.5,87,5200,126.0,No,Yes,No
+756,Prada,Cologne,4.5,98,1800,74.0,No,No,No
+757,Prada,Perfume,4.5,116,7400,102.0,No,No,No
+758,Prada,Perfume,4.0,150,8300,102.0,No,No,No
+759,Prada,Perfume,4.5,214,6500,126.0,No,No,No
+760,Prada,Perfume Gift Sets,4.0,5,3100,30.0,No,No,Yes
+761,Prada,Perfume Gift Sets,5.0,1,591,78.0,No,Yes,Yes
+762,Prada,Cologne,5.0,28,951,98.0,No,No,No
+763,rag & bone,Perfume,5.0,5,746,150.0,No,Yes,No
+764,rag & bone,Perfume,4.5,7,434,150.0,No,Yes,No
+765,rag & bone,Perfume,4.0,6,934,150.0,No,Yes,No
+766,rag & bone,Perfume,3.5,4,564,150.0,No,Yes,No
+767,rag & bone,Perfume,3.5,3,289,150.0,No,Yes,No
+768,rag & bone,Perfume,3.0,2,596,150.0,No,Yes,No
+769,Ralph Lauren,Cologne,5.0,84,4300,70.0,No,No,No
+770,Ralph Lauren,Perfume Gift Sets,0.0,0,274,106.0,Yes,No,Yes
+771,Ralph Lauren,Perfume,4.5,490,2100,98.0,No,No,No
+772,Ralph Lauren,Perfume Gift Sets,4.0,2,1900,25.0,No,No,Yes
+773,Ralph Lauren,Cologne,4.5,613,1200,77.0,No,No,No
+774,Ralph Lauren,Cologne,5.0,114,3100,70.0,No,No,No
+775,Ralph Lauren,Cologne,4.5,276,146,105.0,No,No,No
+776,Ralph Lauren,Perfume,4.5,531,14400,82.0,No,No,No
+777,Ralph Lauren,Cologne,4.5,173,2800,70.0,No,No,No
+778,Ralph Lauren,Cologne,4.5,15,937,56.0,No,No,No
+779,Ralph Lauren,Perfume,4.0,6,1200,98.0,No,No,No
+780,Ralph Lauren,Cologne,4.5,48,1000,72.0,No,No,No
+781,Ralph Lauren,Cologne Gift Sets,0.0,0,56,98.0,Yes,No,No
+782,Ralph Lauren,Perfume,4.5,20,2700,48.0,No,No,No
+783,Ralph Lauren,Cologne Gift Sets,0.0,0,12,112.0,Yes,No,No
+784,Ralph Lauren,Cologne,4.5,224,694,75.0,No,No,No
+785,Ralph Lauren,Cologne,5.0,5,531,70.0,No,No,No
+786,Ralph Lauren,Cologne,4.5,39,1500,68.0,No,No,No
+787,Ralph Lauren,Cologne,4.5,246,353,90.0,No,No,No
+788,Ralph Lauren,Cologne,4.5,4,434,85.0,No,No,No
+789,Ralph Lauren,Cologne,5.0,3,260,77.0,No,No,Yes
+790,Ralph Lauren,Cologne Gift Sets,0.0,0,70,99.0,Yes,No,No
+791,Sephora Favorites,Perfume Gift Sets,4.0,69,20800,65.0,No,Yes,Yes
+792,Sephora Favorites,Cologne Gift Sets,5.0,2,1100,68.0,No,Yes,Yes
+793,Sephora Favorites,Perfume Gift Sets,5.0,11,5000,25.0,No,Yes,No
+794,Sephora Favorites,Perfume Gift Sets,5.0,2,4400,75.0,No,Yes,No
+795,Sephora Favorites,Perfume Gift Sets,4.0,16,3000,68.0,No,Yes,No
+796,Sephora Favorites,Perfume Gift Sets,4.0,3,792,75.0,No,Yes,Yes
+797,Sephora Favorites,Perfume Gift Sets,3.5,23,7900,65.0,No,Yes,Yes
+798,SKYLAR,Perfume Gift Sets,3.5,50,4000,29.0,No,No,Yes
+799,SKYLAR,Perfume,4.0,20,1200,78.0,No,No,No
+800,SKYLAR,Perfume,5.0,103,454,78.0,No,No,No
+801,SKYLAR,Perfume,4.0,11,778,78.0,No,No,No
+802,SKYLAR,Fragrance,5.0,1,0,29.0,No,No,No
+803,SKYLAR,Perfume,5.0,9,525,78.0,No,No,No
+804,SKYLAR,Perfume,5.0,3,763,29.0,No,No,No
+805,SKYLAR,Perfume,4.5,3,477,78.0,No,No,No
+806,SKYLAR,Perfume,5.0,9,343,78.0,No,No,No
+807,SKYLAR,Perfume,4.5,6,345,78.0,No,No,No
+808,SKYLAR,Perfume,5.0,2,410,29.0,No,No,No
+809,SKYLAR,Perfume,4.5,6,341,29.0,No,No,No
+810,SKYLAR,Perfume,5.0,1,284,29.0,No,No,No
+811,SKYLAR,Perfume,4.5,3,362,29.0,No,No,No
+812,Sol de Janeiro,Perfume,3.5,59,12400,78.0,No,Yes,No
+813,Sol de Janeiro,Fragrance,4.5,393,32500,19.0,No,No,No
+814,TOCCA,Perfume,4.5,531,16800,76.0,No,No,No
+815,TOCCA,Perfume,4.5,420,10300,76.0,No,No,No
+816,TOCCA,Perfume,4.5,531,14900,76.0,No,No,No
+817,TOCCA,Perfume,4.5,416,10900,76.0,No,No,No
+818,TOCCA,Fragrance,0.0,0,513,20.0,No,No,Yes
+819,TOCCA,Fragrance,0.0,0,497,48.0,No,No,Yes
+820,TOCCA,Perfume,4.5,194,7200,76.0,No,No,No
+821,TOCCA,Perfume Gift Sets,4.5,3,867,18.0,No,No,Yes
+822,TOCCA,Perfume,4.5,155,7500,76.0,No,No,No
+823,TOCCA,Perfume,4.0,45,3500,76.0,No,No,No
+824,TOCCA,Perfume,4.0,51,2600,76.0,No,No,No
+825,TOCCA,Perfume Gift Sets,4.0,1,350,35.0,No,Yes,Yes
+826,TOCCA,Perfume,4.5,159,5600,76.0,No,No,No
+827,TOCCA,Perfume Gift Sets,3.5,9,2500,25.0,No,No,Yes
+828,TOCCA,Perfume Gift Sets,3.0,5,1800,20.0,No,No,Yes
+829,TokyoMilk,Perfume,4.0,76,2300,42.0,No,No,No
+830,TOM FORD,Perfume,4.5,87,12400,240.0,No,No,No
+831,TOM FORD,Perfume,4.5,132,18000,240.0,No,No,No
+832,TOM FORD,Perfume,3.5,94,12200,335.0,Yes,No,No
+833,TOM FORD,Perfume,4.5,1000,32100,128.0,No,No,No
+834,TOM FORD,Perfume,4.0,161,15600,240.0,No,No,No
+835,TOM FORD,Perfume,3.5,20,4300,335.0,No,No,No
+836,TOM FORD,Perfume,3.5,223,11400,240.0,No,No,No
+837,TOM FORD,Perfume,4.5,93,7100,128.0,No,No,No
+838,TOM FORD,Perfume,4.0,60,8400,335.0,No,No,No
+839,TOM FORD,Perfume,4.5,17,3700,240.0,No,No,No
+840,TOM FORD,Perfume,4.0,118,9500,90.0,No,Yes,No
+841,TOM FORD,Cologne,4.5,60,3800,180.0,No,No,No
+842,TOM FORD,Perfume,4.0,23,3300,240.0,No,No,No
+843,TOM FORD,Perfume,4.5,271,13200,128.0,No,No,No
+844,TOM FORD,Perfume,4.0,30,4000,240.0,No,No,No
+845,TOM FORD,Cologne,5.0,11,1300,240.0,No,No,No
+846,TOM FORD,Perfume,3.5,171,2900,195.0,No,No,No
+847,TOM FORD,Perfume,4.0,34,5300,240.0,No,No,No
+848,TOM FORD,Perfume,4.0,25,3400,49.0,No,Yes,No
+849,TOM FORD,Cologne,4.5,62,2500,128.0,No,No,No
+850,TOM FORD,Perfume,3.0,1,755,60.0,No,No,No
+851,TOM FORD,Perfume,3.5,81,3500,128.0,No,No,No
+852,TOM FORD,Perfume,4.5,34,5600,240.0,No,No,No
+853,TOM FORD,Perfume,4.5,187,9800,128.0,No,No,No
+854,TOM FORD,Perfume,4.0,200,4900,128.0,No,No,No
+855,TOM FORD,Cologne,5.0,1,394,128.0,No,No,No
+856,TOM FORD,Perfume,4.5,32,5700,240.0,No,No,No
+857,TOM FORD,Perfume,4.5,7,811,128.0,No,No,No
+858,TOM FORD,Perfume,4.0,13,1900,49.0,No,Yes,No
+859,TOM FORD,Perfume,4.5,8,1700,240.0,No,No,No
+860,TOM FORD,Perfume,4.0,18,3100,70.0,No,No,No
+861,TOM FORD,Perfume,4.5,29,4400,240.0,No,No,No
+862,TOM FORD,Perfume,4.5,8,1800,240.0,No,No,No
+863,TOM FORD,Perfume,4.5,18,2400,128.0,No,No,No
+864,TOM FORD,Cologne,4.5,85,1600,110.0,No,No,No
+865,TOM FORD,Perfume,4.0,9,1200,240.0,No,No,No
+866,TOM FORD,Perfume,4.5,22,6200,325.0,No,No,No
+867,TOM FORD,Perfume,0.0,0,195,240.0,No,No,No
+868,TOM FORD,Perfume,5.0,2,630,180.0,No,No,No
+869,TOM FORD,Perfume,4.5,11,1900,49.0,No,Yes,No
+870,TOM FORD,Perfume,5.0,2,701,49.0,No,No,No
+871,TOM FORD,Perfume,4.0,16,1500,335.0,No,No,No
+872,TOM FORD,Perfume Gift Sets,0.0,0,92,128.0,Yes,No,Yes
+873,TOM FORD,Perfume,4.0,8,2700,240.0,No,No,No
+874,TOM FORD,Perfume,5.0,18,2400,240.0,No,No,No
+875,TOM FORD,Perfume,4.5,19,2200,240.0,Yes,No,No
+876,TOM FORD,Perfume,4.0,53,3000,110.0,No,No,No
+877,TOM FORD,Perfume,3.5,11,2000,240.0,No,No,No
+878,TOM FORD,Perfume,4.5,17,1800,240.0,No,No,No
+879,TOM FORD,Cologne,5.0,1,143,49.0,No,No,No
+880,TOM FORD,Perfume,5.0,7,1400,70.0,No,No,No
+881,TOM FORD,Perfume,4.0,3,468,70.0,No,No,No
+882,TOM FORD,Perfume,5.0,5,1000,70.0,No,No,No
+883,TOM FORD,Cologne,5.0,4,558,240.0,No,No,No
+884,TOM FORD,Perfume,5.0,6,618,235.0,No,No,No
+885,TOM FORD,Perfume,4.5,2,319,180.0,No,No,No
+886,TOM FORD,Perfume,4.0,26,2700,240.0,No,No,No
+887,TOM FORD,Perfume,4.0,16,1700,125.0,No,No,No
+888,TOM FORD,Perfume,3.5,4,953,60.0,No,No,No
+889,TOM FORD,Perfume,4.0,6,974,49.0,No,No,No
+890,TOM FORD,Perfume,5.0,7,1400,240.0,No,No,No
+891,TOM FORD,Cologne,5.0,2,346,335.0,Yes,No,No
+892,TOM FORD,Cologne,5.0,1,182,335.0,No,No,No
+893,TOM FORD,Cologne,4.5,12,1300,97.0,No,No,No
+894,TOM FORD,Cologne,4.5,5,515,122.0,No,No,No
+895,TOM FORD,Perfume,2.5,3,244,70.0,Yes,No,No
+896,Tory Burch,Perfume,4.0,442,22100,100.0,No,No,No
+897,Tory Burch,Perfume,4.0,147,6500,130.0,No,No,No
+898,Tory Burch,Perfume Gift Sets,4.5,9,3800,22.0,No,Yes,Yes
+899,Tory Burch,Perfume,4.5,21,2000,130.0,No,No,No
+900,Tory Burch,Perfume,4.5,9,1100,30.0,No,Yes,No
+901,Tory Burch,Perfume,4.0,12,654,120.0,No,No,No
+902,Valentino,Perfume,5.0,428,9700,100.0,No,No,No
+903,Valentino,Perfume Gift Sets,5.0,7,1100,148.0,No,No,No
+904,Versace,Perfume,4.5,1000,90200,95.0,No,No,No
+905,Versace,Perfume Gift Sets,4.5,6,3400,49.0,Yes,Yes,Yes
+906,Versace,Cologne,4.5,322,19500,118.0,No,No,No
+907,Versace,Cologne,5.0,288,8300,115.0,No,No,No
+908,Versace,Cologne,4.5,118,7800,118.0,No,No,No
+909,Versace,Perfume,4.0,173,15100,92.0,No,No,No
+910,Versace,Fragrance,0.0,0,846,18.0,Yes,Yes,Yes
+911,Versace,Cologne,5.0,296,7200,115.0,No,No,No
+912,Versace,Perfume,4.5,144,10100,115.0,Yes,No,No
+913,Versace,Perfume,5.0,61,12100,30.0,No,Yes,Yes
+914,Versace,Perfume,4.5,274,14500,60.0,No,No,No
+915,Versace,Perfume,4.5,205,13200,125.0,No,No,No
+916,Versace,Cologne,4.5,34,1600,80.0,No,No,No
+917,Versace,Perfume,4.5,125,7200,95.0,No,No,No
+918,Versace,Cologne Gift Sets,5.0,1,124,107.0,Yes,No,No
+919,Versace,Perfume,4.5,27,5800,32.0,No,No,No
+920,Versace,Perfume,5.0,8,3400,32.0,No,No,No
+921,Versace,Perfume,5.0,5,1000,30.0,No,No,No
+922,Versace,Perfume,5.0,38,4300,99.0,No,No,No
+923,Versace,Perfume Gift Sets,0.0,0,184,78.0,Yes,No,No
+924,Viktor&Rolf,Perfume,4.5,4000,144700,165.0,No,No,No
+925,Viktor&Rolf,Cologne,4.5,473,14100,92.0,No,No,No
+926,Viktor&Rolf,Perfume Gift Sets,5.0,2,753,125.0,No,No,No
+927,Viktor&Rolf,Perfume,4.5,216,19100,98.0,No,No,No
+928,Viktor&Rolf,Perfume,4.5,167,552,165.0,No,No,No
+929,Viktor&Rolf,Perfume,4.5,189,17700,120.0,No,No,No
+930,Viktor&Rolf,Cologne,5.0,26,1800,120.0,No,No,No
+931,Viktor&Rolf,Cologne,4.5,18,1100,105.0,No,No,No
+932,Viktor&Rolf,Perfume,4.5,182,6500,115.0,No,No,No
+933,Viktor&Rolf,Perfume Gift Sets,5.0,1,104,130.0,No,No,No
+934,Viktor&Rolf,Perfume Gift Sets,4.5,7,2700,65.0,No,No,Yes
+935,Viktor&Rolf,Fragrance,0.0,0,441,32.0,No,Yes,No
+936,Viktor&Rolf,Perfume,4.0,90,4200,145.0,No,No,No
+937,Viktor&Rolf,Perfume,4.5,39,2200,145.0,No,No,No
+938,Viktor&Rolf,Perfume,4.0,90,7700,95.0,No,No,No
+939,Viktor&Rolf,Perfume Gift Sets,4.5,10,1900,135.0,Yes,Yes,Yes
+940,Viktor&Rolf,Perfume,3.5,75,2500,145.0,No,No,No
+941,Viktor&Rolf,Perfume Gift Sets,3.5,8,1500,25.0,No,Yes,No
+942,Viktor&Rolf,Perfume,4.0,12,1200,145.0,Yes,No,No
+943,Viktor&Rolf,Cologne Gift Sets,0.0,0,134,150.0,Yes,No,Yes
+944,Viktor&Rolf,Perfume,3.5,13,1400,145.0,No,No,No
+945,Viktor&Rolf,Perfume,4.0,32,3500,145.0,No,No,No
+946,Viktor&Rolf,Perfume,4.0,4,458,145.0,Yes,No,No
+947,Viktor&Rolf,Perfume,3.5,5,1300,145.0,Yes,No,No
+948,Yves Saint Laurent,Perfume,4.5,5000,105300,124.0,No,No,No
+949,Yves Saint Laurent,Perfume,4.5,343,19200,104.0,No,No,No
+950,Yves Saint Laurent,Perfume Gift Sets,4.5,45,29000,29.0,No,Yes,Yes
+951,Yves Saint Laurent,Perfume,4.5,638,43700,97.0,No,No,No
+952,Yves Saint Laurent,Cologne,5.0,864,16100,74.0,No,No,No
+953,Yves Saint Laurent,Cologne,4.5,34,3700,120.0,No,No,No
+954,Yves Saint Laurent,Cologne,4.5,147,7000,95.0,No,No,No
+955,Yves Saint Laurent,Cologne,5.0,286,7000,95.0,No,No,No
+956,Yves Saint Laurent,Perfume,4.5,32,4600,102.0,No,No,No
+957,Yves Saint Laurent,Perfume Gift Sets,4.0,14,7400,35.0,No,Yes,Yes
+958,Yves Saint Laurent,Perfume Gift Sets,0.0,0,466,68.0,No,Yes,No
+959,Yves Saint Laurent,Perfume,0.0,0,388,128.0,No,No,No
+960,Yves Saint Laurent,Perfume,4.5,168,2600,112.0,No,Yes,No
+961,Yves Saint Laurent,Perfume,4.5,164,4200,62.0,No,No,No
+962,Yves Saint Laurent,Cologne,5.0,23,1600,80.0,No,No,No
+963,Yves Saint Laurent,Perfume,5.0,16,2600,74.0,No,No,No
+964,Yves Saint Laurent,Cologne,5.0,36,285,77.0,No,No,No
+965,Yves Saint Laurent,Cologne,4.5,101,1100,74.0,No,No,No
+966,Yves Saint Laurent,Cologne Gift Sets,5.0,2,443,95.0,No,No,No
+967,Yves Saint Laurent,Perfume Gift Sets,5.0,2,1600,150.0,No,No,No
+968,Yves Saint Laurent,Perfume,4.5,260,11200,94.0,No,Yes,No
+969,Yves Saint Laurent,Perfume Gift Sets,5.0,5,1600,150.0,No,No,No
+970,Yves Saint Laurent,Cologne,4.5,78,2300,108.0,No,No,No
+971,Yves Saint Laurent,Perfume,4.5,31,3100,97.0,No,No,No
+972,Yves Saint Laurent,Perfume Gift Sets,5.0,5,1600,78.0,No,No,No
+973,Yves Saint Laurent,Cologne Gift Sets,0.0,0,190,140.0,No,No,Yes
+974,Yves Saint Laurent,Perfume,4.5,666,10200,39.0,No,No,No
+975,Yves Saint Laurent,Perfume,4.5,185,6200,94.0,No,Yes,Yes
+976,Yves Saint Laurent,Cologne Gift Sets,0.0,0,169,115.0,No,No,Yes
+977,Yves Saint Laurent,Perfume Gift Sets,5.0,3,2100,78.0,No,No,Yes
+978,Yves Saint Laurent,Cologne,5.0,1,187,55.0,Yes,No,No
+979,Yves Saint Laurent,Perfume Gift Sets,5.0,1,1100,115.0,No,Yes,Yes
+980,Yves Saint Laurent,Perfume,4.5,15,1900,87.0,No,No,No
+981,The 7 Virtues,Perfume,4.5,213,8400,79.0,No,Yes,No
+982,The 7 Virtues,Perfume Gift Sets,4.5,139,9100,29.0,No,Yes,No
+983,The 7 Virtues,Perfume,5.0,29,1300,79.0,No,Yes,No
+984,The 7 Virtues,Perfume,4.5,50,718,79.0,No,Yes,No
+985,The 7 Virtues,Perfume,4.5,38,1800,79.0,No,Yes,No
+986,The 7 Virtues,Perfume,5.0,31,1700,79.0,No,Yes,No
+987,The 7 Virtues,Perfume,4.5,44,1900,79.0,No,Yes,No
+988,The 7 Virtues,Perfume,4.5,34,1500,79.0,No,Yes,No
+989,The 7 Virtues,Perfume,5.0,22,955,79.0,No,Yes,No
+990,SEPHORA COLLECTION,Perfume,4.0,56,5500,17.0,No,Yes,No

@@ -1,0 +1,27 @@
+Este dataset contiene las siguientes columnas:
+
+
+- id: El ID del producto en la página web de Sephora.
+- brand: La marca del producto.
+- category: La categoría del producto.
+- name: El nombre del producto.
+- size: El tamaño del producto
+- rating: La valoración del producto
+- number_of_reviews: El número de reseñas del producto.
+- love: El número de personas a las que le gusta el producto.
+- price: El precio del producto.
+- value_price: El precio de valor del producto (para productos con descuento).
+- URL: El link al producto.
+- MarketingFlags: Si el producto es exclusivo o únicamente vendido online
+- MarketingFlags_content: Especificaciones acerca de MarketingFlags.
+- options: Las opciones disponibles en la web para cada producto, como colores o tamaño.
+- details: Los detalles del producto disponibles en la web.
+- how_to_use: Intrucciones de uso para el producto.
+- ingredients: Ingredientes del producto.
+- online_only: Si el producto se vende exclusivamente online.
+- exclusive: Si el producto se vende únicamente en la web de Sephora.
+- limited_edition: Si el producto es edición limitada.
+- limited_time_offer: Si el producto tiene una oferta por tiempo limitado
+
+
+Este dataset fue obtenido de https://www.kaggle.com/datasets/raghadalharbi/all-products-available-on-sephora-website.

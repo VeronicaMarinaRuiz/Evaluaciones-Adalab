@@ -1,0 +1,49 @@
+Este dataset contiene las siguientes columnas:
+
+- satisfaction (object): Si el cliente está satisfecho o no. Será nuestra variable respuesta.
+
+- Gender (object) El género del cliente. 
+
+- Customer Type (object): Indica si el cliente es Loyal Customer (cliente recurrente) u otro tipo. 
+
+- Age (int64): Edad del cliente.
+
+- Type of Travel (object): Tipo de viaje realizado.
+
+- Class (object): Clase en la que viaja el cliente.
+
+- Flight Distance (int64): Distancia  del viaje.
+
+- Seat comfort (int64): Comodidad del asiento.
+
+- Departure/Arrival time convenient(int64): La conveniencia de los horarios de salida/llegada.
+
+- Food and drink (int64): La satisfacción con la comida y la bebida.
+
+- Gate location (int64): Ubicación de la puerta de embarque.
+
+- Inflight wifi service(int65): La puntuación del wi-fi en el vuelo.
+
+- Inflight entertainment(int64):La puntuación de los servicios de entretenimiento en el vuelo.
+
+- Online support: La puntuación del soporte online de la compañía.
+
+- Ease of Online booking(int64): Puntuación sobre la facilidad de reservar un vuelo.
+
+- On-board service (int64): Puntuación del servicio a bordo.
+
+- Leg room service (int64): Puntuación sobre el espacio de las piernas. 
+
+- Baggage handling: Puntuación de la gestión del equipaje. 
+
+- Checkin service(int64): Puntuación sobre el servicio de check-in de la aerolinea.
+
+- Cleanliness (int64): Puntuación sobre la limpieza.
+
+- Online boarding(int64): Puntuación sobre el servicio de embarque. 
+
+- Departure Delay in Minutes (int64): Minutos de retraso de la salida vuelo.
+
+- Arrival Delay in Minutes (float64): Minutos de retraso del aterrizaje vuelo.
+
+Este dataset se ha obtenido de https://www.kaggle.com/datasets/sjleshrac/airlines-customer-satisfaction?select=Invistico_Airline.csv
